@@ -266,7 +266,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
 
         function esqueciSenha(event) {
             event.preventDefault();
-            alert("Simulação de recuperação de senha.");
+            alert("esqueceu né.");
         }
 
         function verificarSimulacao() {
